@@ -19,9 +19,7 @@
   
 ## Languages
   
-![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=d21423)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=aa13d1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=0579f7)
 <br>
   <br>
   
